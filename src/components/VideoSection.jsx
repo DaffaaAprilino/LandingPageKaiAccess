@@ -10,7 +10,7 @@ const VideoSection = forwardRef((props, ref) => {
       <div className="container mx-auto px-6">
         <div className="text-center mb-16 max-w-4xl mx-auto">
           <h2 className="text-4xl md:text-6xl font-black text-white mb-4">
-            Masih Bingung? <span className="text-sky-400">Lihat Cara Kerjanya.</span>
+            Masih Bingung? <span className="block sm:inline bg-gradient-to-r from-orange-400 to-amber-400 bg-clip-text text-transparent">Lihat Cara Kerjanya.</span>
           </h2>
           <p className="text-xl text-white font-medium">
             Tonton panduan lengkap pendaftaran dan penggunaan Face Recognition agar Anda tidak salah langkah.

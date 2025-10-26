@@ -37,7 +37,7 @@ const HeroSection = ({ onScrollToNextSection, isVisible }) => {
 
             <h1 className="text-5xl md:text-7xl font-black text-white mb-6 leading-tight drop-shadow-2xl">
               Lewati Antrean Boarding.
-              <span className="block bg-gradient-to-r from-sky-400 to-cyan-400 bg-clip-text text-transparent mt-2">
+              <span className="block bg-gradient-to-r from-orange-400 to-amber-400 bg-clip-text text-transparent mt-2">
                 Wajah Anda Tiketnya.
               </span>
             </h1>
